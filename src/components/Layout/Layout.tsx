@@ -9,7 +9,7 @@ export default Layout;
 
 const Container = styled.div`
     width: 600px;
-    height: 800px;
+    height: 80vh;
     margin: 0 auto;
     background-color: #fff;
     border-radius: 10px;
